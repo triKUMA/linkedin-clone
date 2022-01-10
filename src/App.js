@@ -12,7 +12,7 @@ function App() {
       {/* App Body */}
       <div className="app__body">
         <Sidebar />
-        {/* <Feed /> */}
+        <Feed />
         {/* <Widgets /> */}
       </div>
     </div>

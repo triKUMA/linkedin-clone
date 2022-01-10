@@ -3,12 +3,12 @@
   top: 0;
   display: flex;
   justify-content: space-evenly;
+  background-color: white;
   border-bottom: 0.1px solid lightgrey;
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
   z-index: 999;
-  background-color: white;
 }
 
 .header__left {
