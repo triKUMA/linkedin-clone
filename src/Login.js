@@ -26,7 +26,7 @@ function Login() {
             email: userAuth.user.email,
             uid: userAuth.user.uid,
             displayName: userAuth.user.displayName,
-            profileUrl: userAuth.user.profileURL,
+            photoUrl: userAuth.user.photoURL,
           })
         )
       )
